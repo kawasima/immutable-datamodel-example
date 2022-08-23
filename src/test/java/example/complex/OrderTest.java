@@ -2,7 +2,6 @@ package example.complex;
 
 import example.shared.Address;
 import example.shared.OrderConstraint;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
